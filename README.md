@@ -12,5 +12,12 @@ ingresaras quien empieza -> 1 para empezar tu y 0 para que empieze la maquina
 luego ingresaras la dificultad -> (puedes poner 1,2,3,4)
 y luego se mostrara en pantalla.
 
-INTEGRANTES:
-ALVARO DURAND MANRIQUE
+PARTICIPANTES:
+
+Durand Manrique, Álvaro Diego
+
+Supo Portugal, Paul Pharaf
+
+Tito Acrota, José Emmanuel
+
+Zapater Cabrera, Luis Enrique
